@@ -1,2 +1,3 @@
-# logistic_regression_earthquake
-analyze logistic regression for earthquake.txt dataseta and simulated dataset
+# Logistic Regression - Earthquake
+
+Analyze logistic regression for earthquake.txt dataset and simulated dataset. 
